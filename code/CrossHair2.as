@@ -1,1 +1,0 @@
-﻿package code {		import flash.display.MovieClip;			public class CrossHair2 extends CrossHair {						public function CrossHair2() {			// constructor code		}	}	}
